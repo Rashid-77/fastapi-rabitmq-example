@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+aio_pika
+setuptools>=65.5.1
+
